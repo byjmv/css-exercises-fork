@@ -1,0 +1,13 @@
+.base-yes,.base-no {
+    font-size: 28px;
+    font-family: Helvetica, 'TImes New Roman', sans-serif;
+}
+
+.base-yes{
+    background-color: black;
+    color: white;
+}
+
+.base-no{
+    background-color: yellow;
+}
