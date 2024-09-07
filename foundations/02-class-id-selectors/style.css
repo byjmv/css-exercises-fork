@@ -1,0 +1,20 @@
+.txt{
+    background-color: #ffc0cb;
+    font-family: Verdana,'Dejavu Sans', sans-serif;
+    padding: 10px;
+}
+
+.cooler{
+    font-size: 24px;
+}
+
+#important{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#notimportant{
+    background-color: #90ee90;
+    font-weight: 700;
+    padding: 10px;
+}
