@@ -1,5 +1,6 @@
 body {
   font-family: 'Courier New', Courier, monospace;
+  text-align: center;
 }
 
 img {
@@ -7,10 +8,26 @@ img {
   height: 100px;
 }
 
+.section{
+  display: flex;
+  justify-content: center;
+  gap: 58px;
+
+}
+
 .title {
   font-size: 36px;
   font-weight: 900;
+  padding:  32px;
+
 }
+
+.card{
+  width: 200px;
+  
+
+}
+
 
 /* do not edit this footer */
 .footer {
@@ -24,3 +41,11 @@ img {
   justify-content: center;
   background: #eee;
 }
+/*  All items are centered on the page (horizontally, not vertically).
+- The title is centered on the page.
+- There is 32px between the title and the 'items.'
+- There is 52px between each item.
+- The items are arranged horizontally on the page.
+- The items are only 200px wide and the text wraps.
+- The item text is centered.
+ */
